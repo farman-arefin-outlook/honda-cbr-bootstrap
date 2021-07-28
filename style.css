@@ -1,0 +1,12 @@
+ /*-------------------
+  This is google fonts
+------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.background{
+    background-color: #264653;
+    width: 100%;
+}
