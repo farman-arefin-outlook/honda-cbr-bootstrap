@@ -11,11 +11,13 @@ body{
     background-color: #264653;
     width: 100%;
 }
-/* hr{
-    width: 58px;
-    border: 5px;
-    color: #E76F51;
-} */
+/* This is link button style  */
+.link-button{
+    background-color: #E76F51;
+    color: white;
+    height: 44px;
+    width: 168px;
+}
 .bike img{
     width: 288px;
     height: 243px;
