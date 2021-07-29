@@ -15,8 +15,11 @@ body{
 .link-button{
     background-color: #E76F51;
     color: white;
-    height: 44px;
-    width: 168px;
+    margin-top: 2px;
+    padding: 10px 44px;
+    border: 2px;
+    border-radius: 4px;
+    text-decoration: none;
 }
 .bike img{
     width: 288px;
